@@ -1,0 +1,27 @@
+{
+  "name": "windup",
+  "version": "1.0.0",
+  "description": "Boilerplate CSS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qriousone/windup.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "bem",
+    "flexbox",
+    "responsive",
+    "framework"
+  ],
+  "author": "Maurice Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qriousone/windup/issues"
+  },
+  "homepage": "https://github.com/qriousone/windup#readme"
+}
